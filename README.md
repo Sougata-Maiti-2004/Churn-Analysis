@@ -7,7 +7,7 @@ Designed and implemented an end-to-end customer churn analytics project for an O
 
 # Key Responsibilities
 
-Connected Python with SQLite database to extract relational data using SQL queries.
+Connected Python with SQL database to extract relational data using SQL queries.
 Cleaned and transformed customer, subscription, and support datasets using Pandas and NumPy.
 Engineered business metrics including customer tenure, churn status, retention rate, revenue at risk, and CLTV loss.
 Performed exploratory data analysis (EDA) using aggregation, group-by operations, and pivot tables.
@@ -47,4 +47,4 @@ Recommended migrating monthly subscribers to annual plans, improving customer su
 # Tech Stack
 
 
-SQL | Python | Pandas | NumPy | SQLite3 | Matplotlib | Seaborn | Data Cleaning | Feature Engineering | Exploratory Data Analysis | Business Intelligence
+SQL | Python | Pandas | NumPy | SQL | Matplotlib | Seaborn | Data Cleaning | Feature Engineering | Exploratory Data Analysis | Business Intelligence
